@@ -32,5 +32,5 @@ These codes provide three different methods for calculating T90 of Gamma Ray bur
 - Then apply lc.set_timebins(timeinalg="bayesian")
 - Then the data of t90 will be stored in lc.tdurs
 - total_duration = (lc.tdurs['T90']['TSTOP'] - lc.tdurs['T90']['TSTART']).to('s').value
-  print("Total duration:", total_duration)
-  This command will give you the t90
+- print("Total duration:", total_duration)
+- This command will give you the t90
