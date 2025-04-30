@@ -11,5 +11,7 @@ These codes provide three different methods for calculating T90 of Gamma Ray bur
 - ***Instructions***
 - 
 - For unmask weighted
+- event_file_path is in the directory "/Pathtoyourdownloads/swiftIDevent_result/event/", it has a suffix bevshsp_uf.evt
+- Remember event_file_path is a file not a path
+- acs_file_path is in the directory "/PathtoyourDownloads/swiftID/auxil/", it has a suffix pat.fits.gz
 - 
--
